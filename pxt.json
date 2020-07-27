@@ -1,13 +1,10 @@
 {
-    "name": "Environment-and-Science-IoT",
+    "name": "Octopus Sensors",
     "version": "2.0.0",
-    "description": "Environment and Science IoT Kit for micro:bit",
+    "description": "Octopus Sensors for micro:bit",
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "OLED": "github:Tinkertanker/pxt-oled-ssd1306",
-        "RTC1307": "github:Tinkertanker/pxt-realtimeclock-ds1307",
-        "ESP8266_IoT": "github:elecfreaks/pxt-esp8266iot"
     },
     "files": [
         "environment.ts",
